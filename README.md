@@ -2,6 +2,6 @@
 
 *Learning more about GIT*
 
-read the rest of this to be awesome.
+_read the rest of this to be awesome._
 
 <b>Another change.</b>
